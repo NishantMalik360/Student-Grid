@@ -26,4 +26,11 @@ export const students: Student[] = [
     gender: "female",
     avatar: getRandomAvatar("female"),
   },
+  {
+    name: "Nishant Malik",
+    class: "Q7",
+    dob: "2008-08-03",
+    gender: "male",
+    avatar: getRandomAvatar("male"),
+  },
 ]
